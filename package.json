@@ -1,5 +1,5 @@
 {
-  "name": "redux-modal",
+  "name": "redux-immutable-modal",
   "version": "1.5.3",
   "description": "Redux based modal",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yesmeck/redux-modal.git"
+    "url": "git+https://github.com/duataud/redux-immutable-modal.git"
   },
   "keywords": ["redux", "react", "modal"],
   "author": "Wei Zhu <yesmeck@gmail.com>",
